@@ -7,3 +7,7 @@ The scraper uses the RSS feed to grab the newest 25 sublet posts in the Boston a
 ## Price Mapper
 
 A simple visualizer for cost of sublet depending on where in Boston you're looking.
+
+## Markov Modeled Text Generator!
+
+Coming soon!
