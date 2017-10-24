@@ -94,6 +94,7 @@ cl_scraper <- function(){
       write_csv(new_row, data_loc, append = TRUE)
       
       print(paste0("Post ", post_id, " scraped..."))
+      Sys.sleep(.5)
     }
   }
 }
